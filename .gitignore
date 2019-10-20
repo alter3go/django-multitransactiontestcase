@@ -1,0 +1,8 @@
+*.swp
+django_multitransactiontestcase.egg-info/
+__pycache__
+*.pyc
+.tox
+.vscode
+.mypy_cache
+.pytest_cache
